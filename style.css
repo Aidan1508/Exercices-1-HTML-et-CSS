@@ -1,0 +1,21 @@
+/* commentaire en css */
+header{
+    height: 100px;
+    background: #f98f32;
+    }
+    nav{
+    height: 30px;
+    background: #20DDF2;
+    }
+    section{
+    min-height: 300px;
+    background: #F2F220;
+    }
+    article{
+    min-height: 200px;
+    background: #F2F220;
+    }
+    footer{
+    height: 100px;
+    background: #f98f32;
+    }
